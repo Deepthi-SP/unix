@@ -1,4 +1,5 @@
 echo "Enter a password"
+stty -echo
 read p1
 echo "enter confirmation password"
 stty -echo
